@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea444a86980536b4fbd397f596645e91, type: 3}
+  m_Name: Sword1
+  m_EditorClassIdentifier: 
+  Id: 5
+  itemSprite: {fileID: 86978548, guid: 2a15d7c6876461a448a2c398938e3388, type: 3}
+  type: 3
+  itemName: Cool Sword
+  description: 
+  buffs:
+  - attribute: 3
+    value: 20
+    min: 0
+    max: 50

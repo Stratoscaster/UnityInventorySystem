@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 676718db8e02fd74ebc8bdbf2e728df6, type: 3}
+  m_Name: Bones
+  m_EditorClassIdentifier: 
+  Id: 0
+  itemSprite: {fileID: -550028389, guid: 2a15d7c6876461a448a2c398938e3388, type: 3}
+  type: 2
+  itemName: Bones
+  description: Dem bones
